@@ -1,2 +1,2 @@
 # RajatPayghan
-(site)[rajatpayghan.github.io]
+rajatpayghan.github.io
